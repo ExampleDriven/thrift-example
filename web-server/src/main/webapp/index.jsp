@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello Thrift!</h2>
+The endpoint is <a href="/UserServlet">here</a>
 </body>
 </html>
