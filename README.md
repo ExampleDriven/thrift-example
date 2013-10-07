@@ -1,6 +1,11 @@
 thrift-example
 ==============
 
+This is the source code of the blog post
+
+http://exampledriven.wordpress.com/2013/09/26/apache-thrift-java-example/
+
+
 This is an example project that demonstrates how to build a Thrift server and client in Java.
 
 The project can be build in the following ways :
